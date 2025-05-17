@@ -1,7 +1,4 @@
 # Ammonium organosulfonates as machine learning-driven ‘crystallization cocktails’ for structure determination of liquid molecules
-Official implementation of:
-
-**‘Crystallization cocktails’ for X-ray diffraction analysis of liquids**
 
 Anastasia Danshina, Ivan Zlobin, Svetlana Solov’eva, Nikolai Rekut, Yulia V. Nelyubina
 
